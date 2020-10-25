@@ -17,6 +17,7 @@
 #  - xarray==0.16.1
 
 dependencies:
+  - python==3.6.7
   - matplotlib==3.2.2
   - networkx=2.4
   - numpy==1.18.5
@@ -33,4 +34,4 @@ dependencies:
   - pint
   - pyproj
   - traitlets
-  - metpy
+  - metpy=0.12.2
