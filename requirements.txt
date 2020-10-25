@@ -3,5 +3,5 @@ datetime
 xarray
 matplotlib
 scipy
-cartopy>=0.18
-metpy>=0.12
+cartopy
+metpy
