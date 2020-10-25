@@ -1,0 +1,8 @@
+numpy 
+datetime
+xarray
+matplotlib
+scipy
+os
+cartopy>=0.18
+metpy>=0.12
