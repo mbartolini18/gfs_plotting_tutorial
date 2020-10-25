@@ -1,7 +1,0 @@
-numpy 
-datetime
-xarray
-matplotlib
-scipy
-cartopy
-metpy
