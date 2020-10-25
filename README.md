@@ -12,5 +12,5 @@ https://nbviewer.jupyter.org/github/mbartolini18/gfs_plotting_tutorial/blob/main
 https://nbviewer.jupyter.org/github/mbartolini18/gfs_plotting_tutorial/blob/main/gfs_plotting_tutorial_advanced.ipynb
 
 Try running notebooks using Binder: 
-(basic) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbartolini18/gfs_plotting_tutorial/main?filepath=gfs_plotting_tutorial_basic.ipynb)
-(advanced) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbartolini18/gfs_plotting_tutorial/main?filepath=gfs_plotting_tutorial_advanced.ipynb)
+(basic): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbartolini18/gfs_plotting_tutorial/binder_test?filepath=gfs_plotting_tutorial_basic.ipynb)
+(advanced): [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbartolini18/gfs_plotting_tutorial/binder_test?filepath=gfs_plotting_tutorial_advanced.ipynb)
