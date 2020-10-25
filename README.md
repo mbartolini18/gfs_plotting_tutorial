@@ -7,6 +7,6 @@
 | gfs_plotting_tutorial_advanced.ipynb | Jupyter notebook with advanced examples of plots using calculated variables from GFS using MetPy |
 | images | Directory of example plots generated using these two notebooks (although examples should be visible within each notebook) |
 
-Try running notebooks using Binder: 
-(basic) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbartolini18/gfs_plotting_tutorial/binder_test?filepath=gfs_plotting_tutorial_basic.ipynb)
-(advanced) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbartolini18/gfs_plotting_tutorial/binder_test?filepath=gfs_plotting_tutorial_advanced.ipynb)
+Try running the notebooks yourself using Binder: 
+(basic) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbartolini18/gfs_plotting_tutorial/main?filepath=gfs_plotting_tutorial_basic.ipynb)
+(advanced) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbartolini18/gfs_plotting_tutorial/main?filepath=gfs_plotting_tutorial_advanced.ipynb)
